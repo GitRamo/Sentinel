@@ -164,7 +164,7 @@ SENTINEL es un sistema anticheat multicapas, inteligente, distribuido y preventi
 
 
 ❓ FAQ Técnica Anticipada – Respuestas a objeciones comunes
-"Esto ya existe en [nombre de sistema]"
+"Esto ya existe. 
 Respuesta: Sistemas como FACEIT AMS, Vanguard o EAC tienen componentes aislados (ej: sandboxing, heurística), pero ninguno integra las 6 capas de SENTINEL con validación cruzada estructural + red comunitaria criptográfica + simulación cognitiva en tiempo real. SENTINEL no es una mejora incremental – es un cambio de paradigma arquitectónico.
 "La simulación paralela consumirá muchos recursos"
 Respuesta: La capa CSS (Simulación de Doble Estado) solo se activa en acciones sospechosas (menos del 0.5% de los frames en pruebas simuladas). Usa motores físicos ligeros (como Box2D o Bullet reducido) y se ejecuta en hilos de baja prioridad. El impacto en FPS es <0.3% en benchmarks preliminares.
@@ -197,8 +197,7 @@ Este es un framework conceptual abierto. Invito a:
 📢 Comunidad a difundirlo, debatirlo, y presionar a las grandes compañías a considerarlo.
 ________________________________________
 📜 Licencia
-Este framework se publica bajo licencia MIT – libre para usar, modificar y distribuir, incluso comercialmente. Solo se pide atribución.
-Copyright (c) 2025 [Tu Nombre o Alias]
+Este framework se publica bajo licencia MIT – libre para usar, modificar y distribuir, incluso comercialmente.
 
 Se concede permiso, libre de cargos, a cualquier persona que obtenga una copia 
 de este software y archivos de documentación, para usarlos sin restricciones, 
