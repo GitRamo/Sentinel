@@ -202,5 +202,5 @@ Este framework se publica bajo licencia MIT – libre para usar, modificar y dis
 Se concede permiso, libre de cargos, a cualquier persona que obtenga una copia 
 de este software y archivos de documentación, para usarlos sin restricciones, 
 incluyendo sin limitación los derechos de uso, copia, modificación, fusión, 
-publicación, distribución, sublicencia y/o venta de copias del Software...
+publicación, distribución.
 ________________________________________
