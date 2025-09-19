@@ -206,7 +206,7 @@ publicación, distribución.
 ________________________________________
 
 
-Preguntas frecuentes:
+PREGUNTAS FRECUENTES:
 “La simulación paralela (CSS) es inviable en tiempo real — matará el rendimiento”
 
 Simular físicas, decisiones, trayectorias en paralelo, aunque sea “ligero”, en juegos de 60 FPS con cientos de entidades, es un infierno de optimización. Incluso Box2D reducido puede costar 5-10ms por frame — y eso es inaceptable.
