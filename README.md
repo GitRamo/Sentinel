@@ -1,4 +1,4 @@
-<img src="https://github.com/GitRamo/Sentinel/raw/main/SENTINEL%20FRAMEWORK.png" width="500" alt="SENTINEL Logo" align="center">
+<img src="https://github.com/GitRamo/Sentinel/raw/main/SENTINEL%20FRAMEWORK.png" width="300" alt="SENTINEL Logo" align="center">
 
 
 # SENTINEL - Sistema Anticheat Multimodal Experimental
