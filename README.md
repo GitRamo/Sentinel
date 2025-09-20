@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/GitRamo/Sentinel/raw/main/assets/logo.png](https://github.com/GitRamo/Sentinel/blob/main/SENTINEL%20FRAMEWORK.png?raw=true)" alt="SENTINEL Logo" width="400"/>
+  <img src="(https://github.com/GitRamo/Sentinel/blob/main/SENTINEL%20FRAMEWORK.png?raw=true)" alt="SENTINEL Logo" width="400"/>
 </p>
 # SENTINEL - Sistema Anticheat Multimodal Experimental
 **Prueba de Concepto Técnica**: Sistema Cognitivo Unificado de Tolerancia Ultra Mínima
